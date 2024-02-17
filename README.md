@@ -9,3 +9,4 @@
     Precision: Precision is about being precise i.e. How precise your model is. In other words, you can say, when a model makes a prediction, how often it is correct. In your prediction case, when your Gradient Boosting model predicted an employee is going to leave, that employee actually left 95% time.
 
     Recall: If there is an employee who actually left present in the test set and your Gradient Boosting model is able to identify it 92% of the time.
+.....
